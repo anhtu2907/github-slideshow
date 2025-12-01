@@ -1,0 +1,4 @@
+Source: node_modules/reveal.js/test/examples/assets/image1.png
+Recognized text:
+slid.es
+S (logo icon)

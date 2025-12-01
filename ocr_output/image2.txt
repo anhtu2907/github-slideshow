@@ -1,0 +1,3 @@
+Source: node_modules/reveal.js/test/examples/assets/image2.png
+Recognized text:
+S
